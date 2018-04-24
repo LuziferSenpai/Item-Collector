@@ -1,0 +1,10 @@
+{
+  "name": "Item_Collector_Updated",
+  "version": "0.1.0",
+  "title": "Item Collector",
+  "author": "Rseding91, LuziferSenpai",
+  "Licence": "Custom",
+  "description": "A chest that picks up items on the ground.",
+  "dependencies": ["base >= 0.16"],
+  "factorio_version": "0.16"
+}
