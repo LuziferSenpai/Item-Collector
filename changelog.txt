@@ -1,18 +1,31 @@
 ---------------------------------------------------------------------------------------------------
+Version: 0.2.0
+Date: 28.04.2020
+  Changes:
+    - New graphics
+    - New code
+  Features:
+    - Increase/Decrease collection size
+    - One Collector per tick will get updated
+---------------------------------------------------------------------------------------------------
 Version: 0.1.3
 Date: 24.01.2020
   Changes:
     - Update to .18
 ---------------------------------------------------------------------------------------------------
-Version 0.1.2
+Version: 0.1.2
 Date: 02.03.2019
-	Updates:
-	 - Updated to Version 17
-	Changes:
-	 - A little Code Update
+  Changes:
+    - Updated to Version 17
+  Changes:
+    - A little Code Update
 ---------------------------------------------------------------------------------------------------
-Older Versions:
-	Version: 0.1.1
-	 - Added German locale
-	Version: 0.1.0
-	 - Release
+Version: 0.1.1
+Date: -
+  Features:
+    - German locale
+---------------------------------------------------------------------------------------------------
+Version: 0.1.0
+Date: -
+  Features:
+    - Collects items in a radius
