@@ -5,7 +5,8 @@ local definesrightmouse = defines.mouse_button_type.right
 
 local collector_names =
 {
-    ["item-collector-area"] = require( "scripts/Collector" )
+    ["item-collector-area"] = require( "scripts/Collector" ),
+    ["item-collector"] = require( "scripts/Collector" )
 }
 local script_data =
 {
@@ -31,6 +32,7 @@ local on_entity_removed = function( event )
     local entity = event.entity
 
     if not ( entity and entity.valid ) then return end
+    
     local index = tostring( entity.unit_number )
     local collector = script_data.collectors[index]
 
