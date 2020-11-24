@@ -1,10 +1,11 @@
 {
-  "name": "Item_Collector_Updated",
-  "version": "0.2.1",
-  "title": "Item Collector",
-  "author": "Rseding91, LuziferSenpai",
-  "Licence": "Custom",
-  "description": "A chest that picks up items on the ground.",
-  "dependencies": ["base"],
-  "factorio_version": "0.18"
+    "name": "Item_Collector_Updated",
+    "version": "0.2.2",
+    "title": "Item Collector",
+    "author": "Rseding91, LuziferSenpai",
+    "contact": "mods@luzifersenpai.de",
+    "homepage": "luzifersenpai.de",
+    "description": "A chest that picks up items on the ground.",
+    "dependencies": ["base"],
+    "factorio_version": "1.1"
 }
